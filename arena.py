@@ -1,4 +1,4 @@
-from mag import Wizard
+from kouzelnik import Wizard
 class Arena:
 
     def __init__(self, fighter_1, fighter_2, cube):

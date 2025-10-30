@@ -1,7 +1,7 @@
 from  bojovnik import Fighter
 from  kostka import Cube
 from arena import Arena
-from mag import Wizard
+from kouzelnik import Wizard
 
 
 cube = Cube(6)
